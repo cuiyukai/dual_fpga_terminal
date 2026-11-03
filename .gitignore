@@ -1,0 +1,24 @@
+# TD 编译产物与日志
+*_Runs/
+**/td_project/log/
+*.lock.f
+.lock.f
+.recent_user_depot.ini
+*.log
+*.logw
+*.db
+*.bit
+*.bin
+
+# 仿真生成物
+*.vvp
+*.vcd
+*.fst
+*.ppm
+
+# 系统 / 编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+__pycache__/
